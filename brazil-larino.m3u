@@ -3,9 +3,9 @@
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289881
 #EXTINF:-1,tvg-id="BBB" tvg-name="BBB 24 FHD" tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/23/2012419293-4412571-bbb-24-vem-ai-ex-mulher-de-ator-famos-1400x823-3.png" group-title="Canais | BBB",BBB 24 FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/260488
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Anime TV
+#EXTINF:-1, tvg-id="AnimeTV.br" tvg-name="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Anime TV
 http://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream" tvg-name= "Filmstream" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Filmstream
+#EXTINF:-1, tvg-id="Filmstream" tvg-name= "Filmstream" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="CANAIS |Animation",Filmstream
 http://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,A&E FHD H265 [P]
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/4864
