@@ -6,7 +6,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
 #EXTINF:-1, tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.pinimg.com/originals/21/e3/00/21e3003ec3d409188f41649545b91727.png" group-title="CANAIS | 1",TV Aparecida
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1, tvg-id="Record Brasília" tvg-name="Record Brasília" tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="CANAIS | 1",Record Brasília
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
+https://tv.vidatel.com.br/hls/tvclubehd/live.m3u8
 #EXTINF:-1, tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo RPC Maringá
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 #EXTINF:-1, tvg-id="Space" tvg-name="Space" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS | 1",Space
@@ -17,10 +17,9 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
 #EXTINF:-1, tvg-id="A&E" tvg-name="A&E" tvg-logo="https://seeklogo.com/images/A/A_and_E_Television-logo-7B0533280E-seeklogo.com.png" group-title="CANAIS | 1",A&E
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
-#EXTINF:-1, tvg-id="Record DF" tvg-name="Record DF" tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" group-title="CANAIS | 1",Record DF
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
+#EXTINF:-1, tvg-id="Record DF" tvg-name="Record DF" tvg-logo="https://tv.vidatel.com.br/hls/tvclubehd/live.m3u8
 #EXTINF:-1, tvg-id="Record Bahia" tvg-name="Record Bahia" tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/08/novo-logo-tv-record-destaque-blog-gkpb.jpg" group-title="CANAIS | 1",Record Bahia
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
+https://tv.vidatel.com.br/hls/tvclubehd/live.m3u8
 #EXTINF:-1, tvg-id="Amazon 3" tvg-name="Amazon 3" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon 3
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/20
 #EXTINF:-1, tvg-id="Amazon 4" tvg-name="Amazon 4" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon 4
