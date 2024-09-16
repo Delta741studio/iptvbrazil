@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 #EXTINF:-1, tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="CANAIS | 1",Band SP
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
+https://tv.vidatel.com.br/hls/tvtribunahd/live.m3u8
 #EXTINF:-1, tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.pinimg.com/originals/21/e3/00/21e3003ec3d409188f41649545b91727.png" group-title="CANAIS | 1",TV Aparecida
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
 #EXTINF:-1, tvg-id="Record Brasília" tvg-name="Record Brasília" tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="CANAIS | 1",Record Brasília
@@ -14,7 +14,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
 #EXTINF:-1, tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.pinimg.com/736x/53/15/7a/53157ad3fbc706a055ca4205b5c6f226.jpg" group-title="CANAIS | 1",Cinemax
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 #EXTINF:-1, tvg-id="SBT Serra Dourada" tvg-name="SBT Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS | 1",SBT Serra Dourada
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1969189026.m3u8
 #EXTINF:-1, tvg-id="A&E" tvg-name="A&E" tvg-logo="https://seeklogo.com/images/A/A_and_E_Television-logo-7B0533280E-seeklogo.com.png" group-title="CANAIS | 1",A&E
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
 #EXTINF:-1, tvg-id="Record DF" tvg-name="Record DF" tvg-logo="https://tv.vidatel.com.br/hls/tvclubehd/live.m3u8
@@ -25,7 +25,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/20
 #EXTINF:-1, tvg-id="Amazon 4" tvg-name="Amazon 4" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon 4
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/19
 #EXTINF:-1, tvg-id="Band Minas 4K" tvg-name="Band Minas 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS | 1",Band Minas 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
+https://tv.vidatel.com.br/hls/tvtribunahd/live.m3u8
 #EXTINF:-1 ,tvg-id="Amazon Prime Video 2 HD" tvg-name="Amazon Prime Video 2 HD" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon Prime Video 2 HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/12
 #EXTINF:-1, tvg-id="Amazon Prime Video 1 HD" tvg-name="Amazon Prime Video 1 HD" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon Prime Video 1 HD
