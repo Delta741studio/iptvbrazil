@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1, tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDZB-7LqTKY9YAKM7HMyidKlq4RH33oquug&usqp=CAUa" group-title="CANAIS | 1",Premiere
-http://fthzx.online/252771175/038132305/113127
+http://fthzx.online/252771175/038132305/113127.ts
 #EXTINF:-1, tvg-id="History" tvg-name="History" tvg-logo="https://loopstatic.net/history.png" group-title="CANAIS | 1",History
-http://fthzx.online:80/252771175/038132305/113169
+http://fthzx.online:80/252771175/038132305/113169.ts
 #EXTINF:-1, tvg-id="H2" tvg-name="H2" tvg-logo="https://loopstatic.net/history2.png" group-title="CANAIS | 1",H2
 http://fthzx.online:80/252771175/038132305/113170
 #EXTINF:-1, tvg-id="Space" tvg-name="Space" tvg-logo="https://loopstatic.net/space.png" group-title="CANAIS | 1",Space
