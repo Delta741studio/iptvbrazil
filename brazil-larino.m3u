@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1, tvg-id="BBB25" tvg-name="BBB25" tvg-logo="https://t.ctcdn.com.br/3ecPVz2qobp89QQ2BUYHDZVi70o=/1024x576/smart/i553475.jpeg" group-title="CANAIS | 1",BBB25
+#EXTINF:-1, tvg-id="BBB25" tvg-name="BBB25" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="CANAIS | 1",BBB25
 http://ntkhz.online:80/252771175/038132305/2299039.ts
 #EXTINF:-1, tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDZB-7LqTKY9YAKM7HMyidKlq4RH33oquug&usqp=CAUa" group-title="CANAIS | 1",Premiere
 http://kurtzx.online:80/421505836/183201166/37550.ts
