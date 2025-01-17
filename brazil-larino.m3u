@@ -17,8 +17,10 @@ http://kurtzx.online:80/421505836/183201166/1583742.ts
 http://kurtzx.online:80/421505836/183201166/1583884.ts
 #EXTINF:-1, tvg-id="AMC" tvg-name="AMC" tvg-logo="https://loopstatic.net/amc.png" group-title="CANAIS | 1",AMC
 http://kurtzx.online:80/421505836/183201166/17987.ts 
-#EXTINF:-1, tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo RPC Maringá
-http://kurtzx.online:80/023669619/697796137/38839.ts
+#EXTINF:-1, tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo
+http://kurtzx.online:80/023669619/697796137/38839.ts 
+#EXTINF:-1, tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo SP
+http://ntkhz.online:80/252771175/038132305/38839.ts
 
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
