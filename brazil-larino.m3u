@@ -24,7 +24,13 @@ http://kurtzx.online:80/421505836/183201166/17987.ts
 #EXTINF:-1, tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo
 http://kurtzx.online:80/023669619/697796137/38839.ts 
 #EXTINF:-1, tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo SP
-http://ntkhz.online:80/252771175/038132305/38839.ts
+http://ntkhz.online:80/252771175/038132305/38839.ts 
+#EXTINF:-1, tvg-id="CNN" tvg-name="CNN" tvg-logo="https://loopstatic.net/cnnbrasil.png" group-title="CANAIS | 1",CNN
+http://ntkhz.online:80/252771175/038132305/17538.ts
+#EXTINF:-1, tvg-id="Comedy central" tvg-name="Comedy central" tvg-logo="https://loopstatic.net/comedycentral.jpg" group-title="CANAIS | 1",Comedy central
+http://ntkhz.online:80/252771175/038132305/17627.ts
+#EXTINF:-1, tvg-id="Cartoon network" tvg-name="Cartoon network" tvg-logo="https://loopstatic.net/cartoonnetwork.png" group-title="CANAIS | 1",Cartoon network
+http://ntkhz.online:80/252771175/038132305/23495.ts
 
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
