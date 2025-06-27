@@ -1,89 +1,84 @@
 #EXTM3U 
-#EXTINF:-1, tvg-id="TOP" tvg-name="TOP" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png" group-title="CANAIS | 1",TOP
-http://ntkhz.online:80/252771175/038132305/1378748.ts
-#EXTINF:-1, tvg-id="BBB25" tvg-name="BBB25" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="CANAIS | 1",BBB25
-http://ntkhz.online:80/252771175/038132305/2299039.ts
-#EXTINF:-1, tvg-id="BBB25" tvg-name="BBB25" tvg-logo="https://loopstatic.net/bbb.jpg" group-title="CANAIS | 1",BBB25
-http://ntkhz.online:80/252771175/038132305/2299074.ts
+
 #EXTINF:-1, tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDZB-7LqTKY9YAKM7HMyidKlq4RH33oquug&usqp=CAUa" group-title="CANAIS | 1",Premiere
-http://kurtzx.online:80/421505836/183201166/37550.ts
+http://fireoz.org:80/376298279748/812106972683/18.ts
 #EXTINF:-1, tvg-id="History" tvg-name="History" tvg-logo="https://loopstatic.net/history.png" group-title="CANAIS | 1",History
-http://kurtzx.online:80/421505836/183201166/1583463.ts
+http://fireoz.org:80/376298279748/812106972683/603.ts
 #EXTINF:-1, tvg-id="H2" tvg-name="H2" tvg-logo="https://loopstatic.net/history2.png" group-title="CANAIS | 1",H2
-http://kurtzx.online:80/421505836/183201166/18247.ts
+http://fireoz.org:80/376298279748/812106972683/601.ts
 #EXTINF:-1, tvg-id="Space" tvg-name="Space" tvg-logo="https://loopstatic.net/space.png" group-title="CANAIS | 1",Space
-http://kurtzx.online:80/421505836/183201166/17848.ts
+http://fireoz.org:80/376298279748/812106972683/496.ts
 #EXTINF:-1, tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://loopstatic.net/telecineaction.png" group-title="CANAIS | 1",Telecine Action
-http://kurtzx.online:80/421505836/183201166/18070.ts
+http://fireoz.org:80/376298279748/812106972683/503.ts
 #EXTINF:-1, tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://loopstatic.net/hbo2.png" group-title="CANAIS | 1",HBO2
-http://kurtzx.online:80/421505836/183201166/18046.ts
+http://fireoz.org:80/376298279748/812106972683/470.ts
 #EXTINF:-1, tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://loopstatic.net/cinemax.png" group-title="CANAIS | 1",Cinemax
-http://kurtzx.online:80/421505836/183201166/1583742.ts
+http://fireoz.org:80/376298279748/812106972683/573995.ts
 #EXTINF:-1, tvg-id="FX" tvg-name="FX" tvg-logo="https://loopstatic.net/fx.png" group-title="CANAIS | 1",FX
 http://kurtzx.online:80/421505836/183201166/1583884.ts
 #EXTINF:-1, tvg-id="AMC" tvg-name="AMC" tvg-logo="https://loopstatic.net/amc.png" group-title="CANAIS | 1",AMC
-http://kurtzx.online:80/421505836/183201166/17987.ts 
+http://fireoz.org:80/376298279748/812106972683/454.ts
 #EXTINF:-1, tvg-id="Globo" tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo
-http://kurtzx.online:80/023669619/697796137/38839.ts 
+http://fireoz.org:80/376298279748/812106972683/58.ts 
 #EXTINF:-1, tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo SP
-http://ntkhz.online:80/252771175/038132305/38839.ts 
+http://fireoz.org:80/376298279748/812106972683/1516.ts 
 #EXTINF:-1, tvg-id="CNN" tvg-name="CNN" tvg-logo="https://loopstatic.net/cnnbrasil.png" group-title="CANAIS | 1",CNN
-http://ntkhz.online:80/252771175/038132305/17538.ts
+http://fireoz.org:80/376298279748/812106972683/547.ts
 #EXTINF:-1, tvg-id="Comedy central" tvg-name="Comedy central" tvg-logo="https://loopstatic.net/comedycentral.jpg" group-title="CANAIS | 1",Comedy central
-http://ntkhz.online:80/252771175/038132305/1828799.ts
+http://fireoz.org:80/376298279748/812106972683/181095.ts
 #EXTINF:-1, tvg-id="Cartoon network" tvg-name="Cartoon network" tvg-logo="https://loopstatic.net/cartoonnetwork.png" group-title="CANAIS | 1",Cartoon network
-http://ntkhz.online:80/252771175/038132305/410507.ts
+http://fireoz.org:80/376298279748/812106972683/724.ts
 #EXTINF:-1, tvg-id="Band SP HD" tvg-name="Band SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="CANAIS | 1",Band SP HD
-http://ntkhz.online:80/252771175/038132305/1108571.ts
+http://fireoz.org:80/376298279748/812106972683/559.ts
 #EXTINF:-1, tvg-id="Record SP HD" tvg-name="Record SP HD" tvg-logo="https://loopstatic.net/record.png" group-title="CANAIS | 1",Record SP HD
-http://ntkhz.online:80/252771175/038132305/1108521.ts
+http://fireoz.org:80/376298279748/812106972683/1092.ts
 
 #EXTINF:-1, tvg-id="RBS Porto Alegre" tvg-name="RBS Porto Alegre" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Rbstv1992.jpg" group-title="CANAIS | 1",RBS Porto Alegre
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+http://fireoz.org:80/376298279748/812106972683/599576.ts
 #EXTINF:-1, tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Band_Marca.svg/640px-Band_Marca.svg.png" group-title="CANAIS | 1",Band SP
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
+http://fireoz.org:80/376298279748/812106972683/560.ts
 #EXTINF:-1, tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.pinimg.com/originals/21/e3/00/21e3003ec3d409188f41649545b91727.png" group-title="CANAIS | 1",TV Aparecida
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/47
+http://fireoz.org:80/376298279748/812106972683/1367.ts
 #EXTINF:-1, tvg-id="Record Brasília" tvg-name="Record Brasília" tvg-logo="https://i.ytimg.com/vi/HkmZ8X6QFa0/maxresdefault.jpg" group-title="CANAIS | 1",Record Brasília
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
+http://fireoz.org:80/376298279748/812106972683/564.ts
 #EXTINF:-1, tvg-id="Globo RPC Maringá" tvg-name="Globo RPC Maringá" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo RPC Maringá
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
+http://fireoz.org:80/376298279748/812106972683/1135.ts
 #EXTINF:-1, tvg-id="Space" tvg-name="Space" tvg-logo="https://logowik.com/content/uploads/images/space-tv7790.jpg" group-title="CANAIS | 1",Space
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
+http://fireoz.org:80/376298279748/812106972683/496.ts
 #EXTINF:-1, tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.pinimg.com/736x/53/15/7a/53157ad3fbc706a055ca4205b5c6f226.jpg" group-title="CANAIS | 1",Cinemax
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43 
+http://fireoz.org:80/376298279748/812106972683/573995.ts
 #EXTINF:-1, tvg-id="SBT Serra Dourada" tvg-name="SBT Serra Dourada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="CANAIS | 1",SBT Serra Dourada
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/42
+http://fireoz.org:80/376298279748/812106972683/577.ts
 #EXTINF:-1, tvg-id="A&E" tvg-name="A&E" tvg-logo="https://seeklogo.com/images/A/A_and_E_Television-logo-7B0533280E-seeklogo.com.png" group-title="CANAIS | 1",A&E
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
+http://fireoz.org:80/376298279748/812106972683/451.ts
 #EXTINF:-1, tvg-id="Record DF" tvg-name="Record DF" tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" group-title="CANAIS | 1",Record DF
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/40
+http://fireoz.org:80/376298279748/812106972683/564.ts
 #EXTINF:-1, tvg-id="Record Bahia" tvg-name="Record Bahia" tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/08/novo-logo-tv-record-destaque-blog-gkpb.jpg" group-title="CANAIS | 1",Record Bahia
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
+http://fireoz.org:80/376298279748/812106972683/1049842.ts
 #EXTINF:-1, tvg-id="Amazon 3" tvg-name="Amazon 3" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon 3
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/20
+http://fireoz.org:80/376298279748/812106972683/584417.ts
 #EXTINF:-1, tvg-id="Amazon 4" tvg-name="Amazon 4" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon 4
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/19
+http://fireoz.org:80/376298279748/812106972683/584418.ts
 #EXTINF:-1, tvg-id="Band Minas 4K" tvg-name="Band Minas 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS | 1",Band Minas 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
+http://fireoz.org:80/376298279748/812106972683/638733.ts
 #EXTINF:-1 ,tvg-id="Amazon Prime Video 2 HD" tvg-name="Amazon Prime Video 2 HD" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon Prime Video 2 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/12
+http://fireoz.org:80/376298279748/812106972683/584416.ts
 #EXTINF:-1, tvg-id="Amazon Prime Video 1 HD" tvg-name="Amazon Prime Video 1 HD" tvg-logo="https://www.filmtake.com/wp-content/uploads/2018/05/Amazon.jpg" group-title="CANAIS | 1",Amazon Prime Video 1 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/11
+http://fireoz.org:80/376298279748/812106972683/584415.ts
 #EXTINF:-1, tvg-id="Globo Minas 4K" tvg-name="Globo Minas 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo Minas 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
-#EXTINF:-1, tvg-id="Premiere Clubes 4K" tvg-name="Premiere Clubes 4K" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | 1",Premiere Clubes 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
+http://fireoz.org:80/376298279748/812106972683/599574.ts
+#EXTINF:-1, tvg-id="Premiere Clubes 2" tvg-name="Premiere 2" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | 1",Premiere 2
+http://fireoz.org:80/376298279748/812106972683/3.ts
 #EXTINF:-1, tvg-id="ESPN 1 HD" tvg-name="ESPN 1 HD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/ESPN-logo.jpg" group-title="CANAIS | 1",ESPN 1 HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
+http://fireoz.org:80/376298279748/812106972683/631.ts
 #EXTINF:-1, tvg-id="Premiere 4 4K" tvg-name="Premiere 4 4K" tvg-logo="https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_premiere.jpeg" group-title="CANAIS | 1",Premiere 4 4K
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
+http://fireoz.org:80/376298279748/812106972683/9.ts
 #EXTINF:-1, tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/08/13152052/DISNEYLogo.jpg?fit=1920%2C1080&ssl=1" group-title="CANAIS | 1",Disney Channel HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+http://fireoz.org:80/376298279748/812106972683/395375.ts
 #EXTINF:-1, tvg-id="Globo EPTV Campinas HD" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="CANAIS | 1",Globo EPTV Campinas HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/2
+http://fireoz.org:80/376298279748/812106972683/585821.ts
 #EXTINF:-1, tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png" group-title="CANAIS | 1",Combate HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+http://fireoz.org:80/376298279748/812106972683/619.ts
 
 
 
